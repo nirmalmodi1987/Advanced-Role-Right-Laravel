@@ -1,0 +1,22 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+22-04-2026	16:09:08.868	 INFO	 82908	  6344	DllMain	"DLL_PROCESS_ATTACH 12:44:31 11.4.2516.10"
+22-04-2026	16:09:08.874	 INFO	 82908	  6344	DllMain	"PROCESS ATTACHED"
+22-04-2026	16:09:08.876	 INFO	 82908	 78676	LateInitialization	"Intialization..."
+22-04-2026	16:09:08.878	 INFO	 82908	 78676	LoadDisplayDevicesName	"DisplayDevices : "
+22-04-2026	16:09:08.881	 INFO	 82908	 78676	LoadDisplayDevicesName	"\\.\DISPLAY1"
+22-04-2026	16:09:08.883	 INFO	 82908	 78676	LoadDisplayDevicesName	"\\.\DISPLAY2"
+22-04-2026	16:09:08.885	 INFO	 82908	 78676	LoadDisplayDevicesName	"\\.\DISPLAY3"
+22-04-2026	16:09:08.887	 INFO	 82908	 78676	LoadDisplayDevicesName	"\\.\DISPLAY4"
+22-04-2026	16:09:11.896	 INFO	 82908	 78676	LateInitialization	"Exe = c:\Users\nirmal.modi\.antigravity\extensions\devsense.phptools-vscode-1.70.18740-win32-x64\out\server\devsense.php.ls.exe
+ProductName = devsense.php.ls
+FileDescription = devsense.php.ls
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 509776875
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+22-04-2026	16:09:11.899	 INFO	 82908	 78676	LateInitialization	"Intialization finished"

@@ -1,0 +1,7 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+22-04-2026	16:09:08.920	 INFO	 82908	 84748	DllMain	"DLL_PROCESS_ATTACH 12:44:25 11.4.2516.10"
+22-04-2026	16:09:08.925	 INFO	 82908	 74764	LateInitialization	"Intialization..."
+22-04-2026	16:09:08.926	 INFO	 82908	 74764	LateInitialization	"Exe = c:\Users\nirmal.modi\.antigravity\extensions\devsense.phptools-vscode-1.70.18740-win32-x64\out\server\devsense.php.ls.exe"
+22-04-2026	16:09:08.928	 INFO	 82908	 74764	LateInitialization	"IsExplorer = 0"
+22-04-2026	16:09:08.931	 INFO	 82908	 74764	Edlp::Path::InitializeExcludedPathPatterns	"Windows drive = C:"
+22-04-2026	16:09:08.933	 INFO	 82908	 74764	LateInitialization	"Intialization finished"
